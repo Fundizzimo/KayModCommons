@@ -1,6 +1,7 @@
 {
 	"lite": {
-		"version": "1.0.1-RELEASE"
+		"version": "1.0.1-RELEASE",
+		"unlocked": false
 	},
 	"full": {
 		"version": "1.0-SNAPSHOT"
